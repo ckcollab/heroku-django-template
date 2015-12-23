@@ -15,6 +15,7 @@ To use this project, follow these steps:
 1. Create your working environment.
 2. Install Django (`$ pip install django`)
 3. Create a new project using this template
+4. Install requirements `$ pip install -r <your project name>/requirements.txt`
 
 ## Creating Your Project
 
